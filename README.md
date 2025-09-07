@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [aliakber841@netlify.app](aliakber841@netlify.app)
+- 👨‍💻 All of my projects are available at [aliakber841@netlify.app](aliakber841.netlify.app)
 
 - 📫 How to reach me **aliansari71799@gmail.com**
 
