@@ -7,18 +7,17 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [aliakber841@netlify.app](aliakber841.netlify.app)
+- 👨‍💻 All of my projects are available at [aliakber841@netlify.app](aliakber841@netlify.app)
 
 - 📫 How to reach me **aliansari71799@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali akbar" height="30" width="40" /></a>
-<a href="https://fb.com/ali akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali akbar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-akbar-90a936321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-akbar-90a936321" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1bgihwp2bf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bgihwp2bf/" height="30" width="40" /></a>
 <a href="https://instagram.com/ali akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali akbar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ali akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ali akbar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ali akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali akbar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aliansari71799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aliansari71799" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aliansari71799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aliansari71799" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/aliakber841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aliakber841/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
