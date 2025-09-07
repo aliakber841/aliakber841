@@ -29,7 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliakber841&show_icons=true&locale=en" alt="aliakber841" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliakber841&" alt="aliakber841" /></p>
-
-
-Developed in India 🇮🇳
-Buy Me A Coffee
